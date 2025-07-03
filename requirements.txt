@@ -1,9 +1,10 @@
 streamlit
 fpdf
 firebase-admin
-pyrebase4
+
 plotly
 pillow
 streamlit_autorefresh
 requests
 gcloud
+pyrebase4
