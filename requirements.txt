@@ -7,3 +7,4 @@ pillow
 streamlit_autorefresh
 requests
 google-cloud-storage
+gcloud
