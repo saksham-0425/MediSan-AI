@@ -1,0 +1,7 @@
+streamlit
+fpdf
+firebase-admin
+pyrebase4
+plotly
+Pillow
+streamlit_autorefresh
