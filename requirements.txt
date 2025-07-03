@@ -3,5 +3,7 @@ fpdf
 firebase-admin
 pyrebase4
 plotly
-Pillow
+pillow
 streamlit_autorefresh
+requests
+google-cloud-storage
